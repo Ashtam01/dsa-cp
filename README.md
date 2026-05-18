@@ -1,54 +1,56 @@
-# DSA & Competitive Programming
+#  DSA & Competitive Programming Repository
 
-A clean, topic-based repository of my accepted solutions and reusable algorithm templates.
 
-**Only accepted (AC) solutions are committed.**
+
+**Only verified, accepted solutions (AC) are committed.**
 
 ---
 
-## Structure
+## 📂 Repository Architecture
+
+
 
 ```text
 dsa-cp/
-├── topics/              # Solutions organized by algorithm/data structure
-├── library/             # Reusable, tested C++ templates
-└── template.cpp         # Standard contest template
+├── topics/              # Solutions categorized by core algorithmic concepts
+├── library/             # Reusable, optimized algorithm and data structure templates
+└── template.cpp         # Standard C++ contest starter template
 ```
 
----
+### `topics/`
+Contains solutions to problems across various platforms cataloged by their primary algorithm.
 
-## Code Header
+### `library/`
+A strictly maintained collection of standard algorithms and data structures. Every snippet here is tested.
 
-Every solution file includes a standard metadata header:
+
+## 📝 Code Conventions & Metadata
+
+Every solution file includes a standardized metadata header. 
 
 ```cpp
 /*
- * Problem: [Name]
- * Platform: [Codeforces / LeetCode / etc.]
- * Difficulty: [Rating]
- * Tags: [Tags]
+ * Problem: [Problem Name]
+ * Platform: [Codeforces / LeetCode / CodeChef / etc.]
+ * Tags: [Relevant topics/tags]
  * Time Complexity: O(...)
  * Space Complexity: O(...)
  * Date: YYYY-MM-DD
+ *
+ * Approach:
+ *   - Brief explanation of the core logic.
+ *   - Notable implementation details or edge cases handled.
  */
 ```
 
 ---
 
-## Commit Standard
 
-- `solve:` (e.g., `solve: CF 1900A - Cover in Water [greedy]`)
-- `upsolve:` (For post-contest solutions)
-- `library:` (Add or update a template)
-- `docs:` (Documentation changes)
+## 🔗 Competitive Profiles
 
----
-
-## Profiles
-
-| Platform | Handle |
-|----------|--------|
-| Codeforces | [handle](https://codeforces.com/profile/) |
-| LeetCode | [handle](https://leetcode.com/) |
-| CodeChef | [handle](https://www.codechef.com/users/) |
-| AtCoder | [handle](https://atcoder.jp/users/) |
+| Platform | Max Rating |
+|----------|------------|
+| [Codeforces](https://codeforces.com/profile/taayush86)| 1294 |
+| [LeetCode](https://leetcode.com/u/Ashtam86/) | 1693 |
+| [CodeChef](https://www.codechef.com/users/ashtam86)|  1619 |
+| [AtCoder](https://atcoder.jp/users/taayush86) | 165 kyu|
