@@ -48,6 +48,8 @@ Every solution file includes a standardized metadata header.
 
 ## 🔗 Competitive Profiles
 
+Updated every two weeks.
+
 | Platform | Max Rating |
 |----------|------------|
 | [Codeforces](https://codeforces.com/profile/taayush86)| 1294 |
