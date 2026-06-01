@@ -4,7 +4,7 @@
  * Tags: Greedy/Math
  * Time Complexity: O(N)
  * Space Complexity: O(1)
- * Date: 25/09/2026
+ * Date: 25/05/2026
  *
  * Approach:
  *   - Even + Even = Even
