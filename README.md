@@ -52,7 +52,7 @@ Updated every two weeks.
 
 | Platform | Max Rating |
 |----------|------------|
-| [Codeforces](https://codeforces.com/profile/taayush86)| 1294 |
-| [LeetCode](https://leetcode.com/u/Ashtam86/) | 1693 |
-| [CodeChef](https://www.codechef.com/users/ashtam86)|  1619 |
+| [Codeforces](https://codeforces.com/profile/taayush86)| 1453 |
+| [LeetCode](https://leetcode.com/u/Ashtam86/) | 1710 |
+| [CodeChef](https://www.codechef.com/users/ashtam86)|  1627 |
 | [AtCoder](https://atcoder.jp/users/taayush86) | 165 kyu|
